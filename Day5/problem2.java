@@ -1,8 +1,8 @@
 package Day5;
- import java.util.Scanner;
+import java.util.Scanner;
 public class problem2 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
 
         System.out.print("Enter first number: ");
         int a = sc.nextInt();
