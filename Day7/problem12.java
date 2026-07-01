@@ -1,3 +1,5 @@
+package Day7;
+
 public class problem12 {
     public static void main(String[] args) {
         int a = 0, b = 1;
@@ -10,3 +12,4 @@ public class problem12 {
         }
     }
 }
+
