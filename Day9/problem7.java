@@ -1,0 +1,13 @@
+package Day9;
+
+public class problem7 {
+    public static void main(String[] args) {
+        String text = "Java";
+        String reverse = "";
+
+        for (int i = text.length() - 1; i >= 0; i--)
+            reverse += text.charAt(i);
+
+        System.out.println(reverse);
+    }
+}
