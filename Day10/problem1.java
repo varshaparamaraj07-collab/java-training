@@ -1,17 +1,15 @@
 package Day10;
 
-public class problem5 {
-
+public class problem1 {
     public static void main(String[] args) {
-
-        Employee e = new Employee();
+         Employee e = new Employee();
 
         e.setId(101);
 
         System.out.println(e.getId());
-    }
 }
 
+}
 class Employee {
     private int id;
 
@@ -23,4 +21,3 @@ class Employee {
         return id;
     }
 }
-
