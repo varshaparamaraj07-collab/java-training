@@ -2,7 +2,7 @@ package Day22;
 
 import java.util.Arrays;
 
-public class Problem1 {
+public class problem1 {
 
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;
